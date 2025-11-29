@@ -1,0 +1,5 @@
+{
+  "name": "FlowState",
+  "description": "A visual workflow management application that allows users to create, track, and execute process flows. Features AI-powered flow generation.",
+  "requestFramePermissions": []
+}
